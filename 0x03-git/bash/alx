@@ -1,21 +1,12 @@
 #!/bin/bash
  echo "ALX" 
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
- echo "ALX School is so cool!" 
-=======
- echo "ALX School" 
-<<<<<<< HEAD
->>>>>>> update_script
+
 #!/bin/bash
  echo "ALX School is so cool!" 
-=======
+
  echo "ALX School" 
->>>>>>> update_script
+
 #!/bin/bash
  echo "ALX School is so cool!" 
-=======
-#!/bin/bash
- echo "ALX School" 
->>>>>>> update_script
+
